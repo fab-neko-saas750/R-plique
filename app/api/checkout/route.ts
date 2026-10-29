@@ -1,3 +1,4 @@
+// Bouton de paiement
 import Stripe from "stripe";
 import { createClient } from "@supabase/supabase-js";
 import { NextResponse } from "next/server";
